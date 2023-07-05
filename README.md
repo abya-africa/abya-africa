@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, we are ABYA</h1>
 <h3 align="center">ABYA is a pan-African initiative created to promote literacy and adoption of blockchain, web3 and crypto in Africa through awareness, knowledge, skills and application among university students.</h3>
 
+<h3 align="center">Africa’s financial growth has been impacted greatly by the creativity and ingenuity from unicorns like M-Pesa. Africa’s youth are alive to the opportunities that are inevitably becoming abundant in the blockchain, web3 and cryptocurrency space. By investing in Africa’s youth with future-proof skills, networking opportunities, and other programs, we are not only empowering individuals but also benefiting society as a whole. These young people have the potential to make a real difference in the world, and we are proud to be supporting them on their journey.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abya-africa&label=Profile%20views&color=0e75b6&style=flat" alt="abya-africa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abya-africa" alt="abya-africa" /></a> </p>
